@@ -1,0 +1,157 @@
+.body{
+    background-color: rgb(210, 224, 244);
+}
+.cont{
+    
+}
+
+.resume{
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    border-radius: 30px;
+    transition: box-shadow 1s;
+    
+}
+.resume:hover{
+    box-shadow: 0 0 1000px rgb(10, 10, 10); 
+}
+
+
+.imgdp{
+    height: auto;
+    width: 150px;
+    border-radius: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid #7a4f4f;
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+    transition: box-shadow 1s;
+}
+
+.imgdp:hover{
+    
+    box-shadow: 0 0 1000px rgb(10, 10, 10); 
+}
+
+
+  
+.desc{
+    display: inline-block;
+    padding-bottom: 10px;
+    font-weight: 100;
+    transition: box-shadow .2s;
+}
+
+.desc:hover{
+    
+    box-shadow: 0 0 1000px rgb(10, 10, 10); 
+}
+
+.about{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    transition: box-shadow .2s;
+}
+.about:hover{
+    
+    box-shadow: 0 0 1000px rgb(10, 10, 10); 
+}
+
+
+
+.first{
+    text-align: center;
+    height: auto;
+    color: brown;
+    background-color: rgb(170, 244, 244);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: box-shadow .2s;
+    
+}
+.first:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
+
+.skill{
+    background-color: rgb(157, 213, 224);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: box-shadow .2s;
+
+}
+
+
+.skill:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
+.second{
+
+    color: blueviolet;
+    background-color: rgb(150, 225, 225);
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    transition: box-shadow .2s;
+}
+
+.second:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
+
+.third{
+    float: left;
+    color: blueviolet;
+    background-color: rgb(216, 245, 196);
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    transition: box-shadow .2s;
+}
+.third:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
+
+.four{
+    display: inline-block;
+    color: blueviolet;
+    background-color: rgb(175, 157, 228);
+    padding: 30px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 10px;
+    transition: box-shadow .2s;
+}
+.four:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
+
+.hobby {
+    color: rgb(97, 36, 151);
+    background-color: rgb(175, 157, 228);
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: box-shadow .2s;
+}
+
+.hobby:hover{
+    
+    box-shadow: 0 0 1000px rgba(10, 10, 10); 
+}
